@@ -1,0 +1,16 @@
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\bin\Debug\net5.0\API Test in C#.exe
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\bin\Debug\net5.0\API Test in C#.deps.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\bin\Debug\net5.0\API Test in C#.runtimeconfig.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\bin\Debug\net5.0\API Test in C#.runtimeconfig.dev.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\bin\Debug\net5.0\API Test in C#.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\bin\Debug\net5.0\ref\API Test in C#.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\bin\Debug\net5.0\API Test in C#.pdb
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.csproj.AssemblyReference.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.AssemblyInfoInputs.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.AssemblyInfo.cs
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.csproj.CoreCompileInputs.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\ref\API Test in C#.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.pdb
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.genruntimeconfig.cache
