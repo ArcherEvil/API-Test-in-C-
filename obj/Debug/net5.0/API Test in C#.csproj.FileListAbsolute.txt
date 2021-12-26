@@ -14,3 +14,5 @@ C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debu
 C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\ref\API Test in C#.dll
 C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.pdb
 C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.genruntimeconfig.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\API Test in C#\obj\Debug\net5.0\API Test in C#.csproj.CopyComplete
